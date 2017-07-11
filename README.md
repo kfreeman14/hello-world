@@ -1,3 +1,3 @@
 # hello-world
 basic hello world
-\nHi my name is katie
+Hi my name is katie
